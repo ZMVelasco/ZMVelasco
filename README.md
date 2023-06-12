@@ -1,8 +1,6 @@
-Hello, I'm Mariana Velasco 🌸💻
-===================================
 <img src="https://raw.githubusercontent.com/ZMVelasco/ZMVelasco/main/Avatar_mariana.png" alt="Mariana Velasco Illustration" width="700" height="700">
-Front-end developer
--------------------
+<h1><strong>Hello, I'm Mariana Velasco 🌸💻</strong></h1>
+<h1><strong>Frontend developer</strong></h1>
 
 Former clinical dietitian who pivoted her career into tech as a frontend developer, fueled by a strong passion for merging health and technology, and deeply committed to the development of user-friendly, accesible and inclusive digital solutions that lead to a positive impact.
 
