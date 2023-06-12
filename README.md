@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ZMVelasco/ZMVelasco/main/Avatar_mariana.png" alt="Mariana Velasco Illustration" width="300" height="200">
+<img src="https://raw.githubusercontent.com/ZMVelasco/ZMVelasco/main/Avatar_mariana.png" alt="Mariana Velasco Illustration" width="700" height="700">
 Hello, I'm Mariana Velasco 🌸💻
 ===================================
 
