@@ -1,6 +1,9 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZMVelasco/ZMVelasco/main/Avatar_mariana.png" alt="Mariana Velasco Illustration" width="500" height="500">
- </p align="center">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZMVelasco/ZMVelasco/main/Avatar_mariana.png" class="avatar" alt="Mariana Velasco Illustration" style="width: 500px; height: 500px;">
+</div>
+
+<link rel="stylesheet" href="styles.css">
+
 <h1><strong>Hello, I'm Mariana Velasco 🌸💻</strong></h1>
 <h1><strong>Frontend developer</strong></h1>
 
@@ -39,3 +42,8 @@ Former clinical dietitian who pivoted her career into tech as a frontend develop
 <a href="http://www.github.com/ZMVelasco"><img src="https://github-readme-stats.vercel.app/api?username=ZMVelasco&show_icons=true&hide=&count_private=true&title_color=CCCCFF&text_color=ffffff&icon_color=CCCCFF&bg_color=000000&hide_border=true&show_icons=true" alt="ZMVelasco's GitHub stats" style="border: 3px solid #FF69B4;" /></a>
 
 <a href="http://www.github.com/ZMVelasco"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ZMVelasco&stroke=ffffff&background=000000&ring=CCCCFF&fire=CCCCFF&currStreakNum=ffffff&currStreakLabel=CCCCFF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="border: 3px solid #FF69B4;" /></a>
+<style>
+  .rounded-image {
+    border-radius: 20px;
+  }
+</style>
