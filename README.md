@@ -1,4 +1,4 @@
-![Portrait illustration]([image-url](https://res.cloudinary.com/dslzbcaxd/image/upload/v1686612420/Avatar_mariana_acsom9.png))
+<img src="https://raw.githubusercontent.com/ZMVelasco/ZMVelasco/main/Avatar_mariana.png" alt="Mariana Velasco Illustration" width="300" height="200">
 Hello, I'm Mariana Velasco 🌸💻
 ===================================
 
