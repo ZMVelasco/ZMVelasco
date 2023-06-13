@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZMVelasco/ZMVelasco/main/Avatar_mariana.png" class="avatar" alt="Mariana Velasco Illustration" style="width: 500px; height: 500px;">
+  <img src="https://raw.githubusercontent.com/ZMVelasco/ZMVelasco/main/Avatar_mariana.png" class="avatar" alt="Mariana Velasco Illustration" style="max-width: 40%; max-height: 40%; border-radius: 40%;">
 </div>
 
 <link rel="stylesheet" href="styles.css">
