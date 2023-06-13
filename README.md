@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/ZMVelasco/ZMVelasco/main/Avatar_mariana.png" class="avatar" alt="Mariana Velasco Illustration" style="width: 50%; height: 50%;">
 </div>
 
-<link rel="stylesheet" href="styles.css">
-
 <h1><strong>Hello, I'm Mariana Velasco 🌸💻</strong></h1>
 <h1><strong>Frontend developer</strong></h1>
 
